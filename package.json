@@ -31,13 +31,13 @@
   },
   "homepage": "https://github.com/ntbosscher/react-window-sortable#readme",
   "peerDependencies": {
-    "react": "^16.0.0-alpha"
+    "react": "^0.0.0-experimental-33c3af284"
   },
   "dependencies": {
     "@types/node": "12.12.6",
     "@types/react": "^16.9.35",
     "@types/react-window": "^1.8.1",
-    "react": "^16.13.1",
+    "react": "^0.0.0-experimental-33c3af284",
     "react-window": "^1.8.5",
     "typescript": "3.7.2"
   }
